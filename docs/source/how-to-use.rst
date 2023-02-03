@@ -7,8 +7,11 @@
 ------------
 
 请通过下列方式下载模组：
+
 官网：https://www.serpzacek.com/addons/serp-pok%C3%A9drock
+
 MCPEDL：https://mcpedl.com/user/zacek-estrada/
+
 MineBBS（汉化）：https://www.minebbs.com/pokedrock/
 
 .. code-block:: console
