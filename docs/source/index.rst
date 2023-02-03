@@ -8,9 +8,9 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   该项目正在积极开发中。
 
-Contents
+内容
 --------
 
 .. toctree::
