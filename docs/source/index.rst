@@ -4,8 +4,7 @@
 欢迎来到 SERP Pokédrock 的世界！这个插件拥有惊艳和灵活的战斗系统！ 支持领域并与 Minecraft Bedrock 全面适配，获取完整的真实冒险体验！
 本模组由 Zacek el Serpentín 创作，MineBBS 汉化。
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+本文档将介绍如何下载、安装和导入该模组，并且展示和介绍模组中的各种物品与生物，同时也会补充许多需要注意的使用方法。
 
 .. note::
 
