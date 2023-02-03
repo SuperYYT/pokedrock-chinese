@@ -15,14 +15,15 @@ how to :ref:`installation` the project.
     :maxdepth: 1
     :caption: 如何使用
     
-    usage
-    api
+    how-to-use
+    basic-usage
+    advanced-usage
 
 .. toctree::
     :maxdepth: 1
     :caption: 图鉴
     
-    base
+    item
     gen1
     gen2
     gen3
