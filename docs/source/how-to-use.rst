@@ -12,10 +12,6 @@
 2. MCPEDL：https://mcpedl.com/user/zacek-estrada/
 3. MineBBS（汉化）：https://www.minebbs.com/pokedrock/
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
 安装
 ----------------
 
