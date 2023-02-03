@@ -1,4 +1,4 @@
-Generation 2
+第二世代
 =====
 
 .. autosummary::

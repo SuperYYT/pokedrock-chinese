@@ -1,4 +1,4 @@
-Generation 3
+第三世代
 =====
 
 .. autosummary::

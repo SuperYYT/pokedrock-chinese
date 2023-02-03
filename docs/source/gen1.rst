@@ -1,4 +1,4 @@
-Generation 1
+第一世代
 =====
 
 .. autosummary::
