@@ -9,7 +9,9 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   本项目不隶属于 Mojang 且与 Pokémon 游戏无关，各生物和物品名称为 Pokémon 公司资产。本模组与文档都正在积极开发中。
+   本项目不隶属于 Mojang 且与 Pokémon 游戏无关，各生物和物品名称为 Pokémon 公司资产。
+   
+   本模组与文档都正在积极开发中，欢迎参与！
 
 .. toctree::
     :maxdepth: 1
