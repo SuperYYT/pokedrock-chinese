@@ -1,4 +1,4 @@
-Usage
+用法
 =====
 
 .. _installation:
